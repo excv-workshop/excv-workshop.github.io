@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | eXCV Workshop at ECCV 2024</title>
-    <link>http://localhost:1313/categories/</link>
-      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://excv-workshop.github.io/categories/</link>
+      <atom:link href="https://excv-workshop.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://excv-workshop.github.io/media/icon_huc7f12338cc2aa4e2096a60161f0d110c_118010_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>http://localhost:1313/categories/</link>
+      <link>https://excv-workshop.github.io/categories/</link>
     </image>
     
   </channel>
