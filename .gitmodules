@@ -1,0 +1,3 @@
+[submodule "2024"]
+	path = 2024
+	url = git@github.com:excv-workshop/website-2024.git
