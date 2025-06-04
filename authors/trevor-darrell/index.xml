@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eXCV Workshop at ICCV 2025</title>
+    <link>https://excv-workshop.github.io/authors/trevor-darrell/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/trevor-darrell/index.xml" rel="self" type="application/rss+xml" />
+    <description>eXCV Workshop at ICCV 2025</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>eXCV Workshop at ICCV 2025</title>
+      <link>https://excv-workshop.github.io/authors/trevor-darrell/</link>
+    </image>
+    
+  </channel>
+</rss>
