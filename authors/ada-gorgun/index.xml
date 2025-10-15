@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ada Görgün | eXCV Workshop at ICCV 2025</title>
+    <link>https://excv-workshop.github.io/authors/ada-gorgun/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/ada-gorgun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ada Görgün</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Ada Görgün</title>
+      <link>https://excv-workshop.github.io/authors/ada-gorgun/</link>
+    </image>
+    
+    <item>
+      <title>VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow</title>
+      <link>https://excv-workshop.github.io/publication/vital-more-understandable-feature-visualization-through-distribution-alignment-and-relevant-information-flow/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/vital-more-understandable-feature-visualization-through-distribution-alignment-and-relevant-information-flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

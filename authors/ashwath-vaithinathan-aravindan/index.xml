@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwath Vaithinathan Aravindan | eXCV Workshop at ICCV 2025</title>
+    <link>https://excv-workshop.github.io/authors/ashwath-vaithinathan-aravindan/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/ashwath-vaithinathan-aravindan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwath Vaithinathan Aravindan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Ashwath Vaithinathan Aravindan</title>
+      <link>https://excv-workshop.github.io/authors/ashwath-vaithinathan-aravindan/</link>
+    </image>
+    
+    <item>
+      <title>Do VLMs Have Bad Eyes? Diagnosing Compositional Failures via Mechanistic Interpretability</title>
+      <link>https://excv-workshop.github.io/publication/do-vlms-have-bad-eyes-diagnosing-compositional-failures-via-mechanistic-interpretability/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/do-vlms-have-bad-eyes-diagnosing-compositional-failures-via-mechanistic-interpretability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Pölsterl | eXCV Workshop at ICCV 2025</title>
+    <link>https://excv-workshop.github.io/authors/sebastian-polsterl/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/sebastian-polsterl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Pölsterl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Sebastian Pölsterl</title>
+      <link>https://excv-workshop.github.io/authors/sebastian-polsterl/</link>
+    </image>
+    
+    <item>
+      <title>Keep the Faith: Faithful Explanations in Convolutional Neural Networks for Case-Based Reasoning</title>
+      <link>https://excv-workshop.github.io/publication/keep-the-faith-faithful-explanations-in-convolutional-neural-networks-for-case-based-reasoning/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/keep-the-faith-faithful-explanations-in-convolutional-neural-networks-for-case-based-reasoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

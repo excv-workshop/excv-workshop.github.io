@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Julia Grabinski | eXCV Workshop at ECCV 2024</title>
+    <title>Julia Grabinski | eXCV Workshop at ICCV 2025</title>
     <link>https://excv-workshop.github.io/authors/julia-grabinski/</link>
       <atom:link href="https://excv-workshop.github.io/authors/julia-grabinski/index.xml" rel="self" type="application/rss+xml" />
     <description>Julia Grabinski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 eXCV Workshop Organizers</copyright><lastBuildDate>Tue, 10 Sep 2024 22:02:03 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
     <image>
       <url>https://excv-workshop.github.io/img/icon.png</url>
       <title>Julia Grabinski</title>
@@ -15,7 +15,7 @@
     <item>
       <title>As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain</title>
       <link>https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/</link>
-      <pubDate>Tue, 10 Sep 2024 22:02:03 +0200</pubDate>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
       <guid>https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moon Ye-Bin | eXCV Workshop at ICCV 2025</title>
+    <link>https://excv-workshop.github.io/authors/moon-ye-bin/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/moon-ye-bin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moon Ye-Bin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Moon Ye-Bin</title>
+      <link>https://excv-workshop.github.io/authors/moon-ye-bin/</link>
+    </image>
+    
+    <item>
+      <title>Patch-wise Retrieval: An Interpretable Instance-Level Image Matching</title>
+      <link>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

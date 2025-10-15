@@ -24,7 +24,7 @@
   
     
   
-  <meta name="description" content="Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e.~we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future. Our code is available at https://github.com/GeJulia/NIFF .">
+  <meta name="description" content="Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e. we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/">
@@ -107,16 +107,16 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="eXCV Workshop at ECCV 2024">
+  <meta property="og:site_name" content="eXCV Workshop at ICCV 2025">
   <meta property="og:url" content="https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/">
-  <meta property="og:title" content="As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain | eXCV Workshop at ECCV 2024">
-  <meta property="og:description" content="Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e.~we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future. Our code is available at https://github.com/GeJulia/NIFF ."><meta property="og:image" content="https://excv-workshop.github.io/img/icon.png">
+  <meta property="og:title" content="As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain | eXCV Workshop at ICCV 2025">
+  <meta property="og:description" content="Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e. we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future."><meta property="og:image" content="https://excv-workshop.github.io/img/icon.png">
   <meta property="twitter:image" content="https://excv-workshop.github.io/img/icon.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2024-09-10T22:02:03&#43;02:00">
+      <meta property="article:published_time" content="2025-10-10T22:02:03&#43;02:00">
     
-    <meta property="article:modified_time" content="2024-09-20T23:54:01&#43;02:00">
+    <meta property="article:modified_time" content="2025-10-15T10:48:26&#43;02:00">
   
 
   
@@ -142,8 +142,8 @@
   },
   "headline": "As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain",
   
-  "datePublished": "2024-09-10T22:02:03+02:00",
-  "dateModified": "2024-09-20T23:54:01+02:00",
+  "datePublished": "2025-10-10T22:02:03+02:00",
+  "dateModified": "2025-10-15T10:48:26+02:00",
   
   "author": {
     "@type": "Person",
@@ -152,13 +152,13 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "eXCV Workshop at ECCV 2024",
+    "name": "eXCV Workshop at ICCV 2025",
     "logo": {
       "@type": "ImageObject",
       "url": "https://excv-workshop.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e.~we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future. Our code is available at https://github.com/GeJulia/NIFF ."
+  "description": "Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e. we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future."
 }
 </script>
 
@@ -176,7 +176,7 @@
 
 
 
-  <title>As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain | eXCV Workshop at ECCV 2024</title>
+  <title>As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain | eXCV Workshop at ICCV 2025</title>
 
 </head>
 
@@ -227,7 +227,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">eXCV Workshop at ECCV 2024</a>
+      <a class="navbar-brand" href="/">eXCV Workshop at ICCV 2025</a>
     </div>
     
 
@@ -240,7 +240,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">eXCV Workshop at ECCV 2024</a>
+      <a class="navbar-brand" href="/">eXCV Workshop at ICCV 2025</a>
     </div>
     
 
@@ -304,35 +304,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#program"><span>Program</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/#invited-speakers"><span>Invited Speakers</span></a>
         </li>
 
@@ -347,7 +318,9 @@
             
               <a class="dropdown-item" href="/#proceedings"><span>Proceedings Track</span></a>
             
-              <a class="dropdown-item" href="/#non-proceedings"><span>Non-Proceedings Track</span></a>
+              <a class="dropdown-item" href="/#non-proceedings-earlystage"><span>Early Stage Track</span></a>
+            
+              <a class="dropdown-item" href="/#non-proceedings-nectar"><span>Nectar Track</span></a>
             
           </div>
         </li>
@@ -376,29 +349,30 @@
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Calls</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
             
-          
-          
+              <a class="dropdown-item" href="/#call-for-open-mic-opinions"><span>Call for Open-Mic Opinions</span></a>
+            
+              <a class="dropdown-item" href="/#call-for-papers"><span>Call for Papers</span></a>
+            
+          </div>
+        </li>
+
+        
         
 
-        <li class="nav-item">
-          <a class="nav-link " href="/#call-for-papers"><span>Call for Papers</span></a>
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Previous Workshops</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/2024/"><span>ECCV 2024</span></a>
+            
+          </div>
         </li>
 
         
@@ -570,6 +544,23 @@
     Paper
 </a>
 
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/GeJulia/NIFF"
+    target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>
+    Code
+</a>
+
 </div>
 
 
@@ -581,8 +572,7 @@
 
         
         <h3>Abstract</h3>
-        <p class="pub-abstract">Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e.~we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future. Our code is available at 
-<a href="https://github.com/GeJulia/NIFF" target="_blank" rel="noopener">https://github.com/GeJulia/NIFF</a> .</p>
+        <p class="pub-abstract">Recent work in neural networks for image classification has seen a strong tendency towards increasing the spatial context during encoding. Whether achieved through large convolution kernels or self-attention, models scale poorly with the increased spatial context, such that the improved model accuracy often comes at significant costs. In this paper, we propose a module for studying the effective filter size of convolutional neural networks (CNNs). To facilitate such a study, several challenges need to be addressed: (i) we need an effective means to train models with large filters (potentially as large as the input data) without increasing the number of learnable parameters, (ii) the employed convolution operation should be a plug-and-play module that can replace conventional convolutions in a CNN and allow for an efficient implementation in current frameworks, (iii) the study of filter sizes has to be decoupled from other aspects such as the network width or the number of learnable parameters, and (iv) the cost of the convolution operation itself has to remain manageable i.e. we can not naïvely increase the size of the convolution kernel. To address these challenges, we propose to learn the frequency representations of filter weights as neural implicit functions, such that the better scalability of the convolution in the frequency domain can be leveraged. Additionally, due to the implementation of the proposed neural implicit function, even large and expressive spatial filters can be parameterized by only a few learnable weights. Interestingly, our analysis shows that, although the proposed networks could learn very large convolution kernels, the learned filters are well localized and relatively small in practice when transformed from the frequency to the spatial domain. We anticipate that our analysis of individually optimized filter sizes will allow for more efficient, yet effective, models in the future.</p>
         
 
         
@@ -759,7 +749,7 @@
   
 
   <p class="powered-by">
-    © 2024 eXCV Workshop Organizers &middot; 
+    © 2025 eXCV Workshop Organizers &middot; 
 
     Powered by the
     <a href="https://hugoblox.com/templates/details/academic-cv/" target="_blank" rel="noopener">Academic theme</a> for

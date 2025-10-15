@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yogesh S Rawat | eXCV Workshop at ICCV 2025</title>
+    <link>https://excv-workshop.github.io/authors/yogesh-s-rawat/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/yogesh-s-rawat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yogesh S Rawat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Yogesh S Rawat</title>
+      <link>https://excv-workshop.github.io/authors/yogesh-s-rawat/</link>
+    </image>
+    
+    <item>
+      <title>LR0.FM: Low-Res Benchmark and Improving Robustness for Zero-Shot Classification in Foundation Models</title>
+      <link>https://excv-workshop.github.io/publication/lr0.fm-low-res-benchmark-and-improving-robustness-for-zero-shot-classification-in-foundation-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/lr0.fm-low-res-benchmark-and-improving-robustness-for-zero-shot-classification-in-foundation-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
