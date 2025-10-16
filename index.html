@@ -621,31 +621,107 @@
   <style>
     table { border-collapse: collapse; width: 100%; }
     th, td { border: 1px solid #ccc; padding: 6px 8px; }
-    td[rowspan], th[rowspan] { vertical-align: middle; } /* ← centers multirow cells */
+    td[rowspan], th[rowspan] { vertical-align: middle; } /* center merged cells */
+    .speaker { font-weight: 500; }
+    .talk-title { font-weight: 600; color: #222; }
     .sub { padding-left: 1.25em; }
     .badge { border: 1px solid #999; border-radius: 999px; padding: 0 6px; font-size: 0.8em; white-space: nowrap; }
   </style>
   <tr>
     <th>Time</th><th>Program</th><th>Venue</th>
   </tr>
-  <tr><td>8:45–9:00</td><td>Opening Remarks</td><td rowspan="3">Ballroom A</td></tr>
-  <tr><td>9:00–9:30</td><td>Thomas Fel</td></tr>
-  <tr><td>9:30–10:00</td><td>David Bau</td></tr>
-  <tr><td>10:00–10:15</td><td>Coffee Break</td><td>Exhibit Hall II</td></tr>
-  <tr><td>10:15–10:45</td><td>Sharon Li</td><td rowspan="2">Ballroom A</td></tr>
-  <tr><td>10:45–11:15</td><td>Elevator Pitches of Accepted Papers</td></tr>
-  <tr><td>11:15–14:00</td><td>Poster Session</td><td rowspan="2">Exhibit Hall II</td></tr>
-  <tr><td>12:15–13:00</td><td class="sub">↳ Lunch Social Event 
-  <!-- <span class="badge">within Poster Session</span> -->
-  </td></tr>
-  <tr><td>14:00–14:30</td><td>Open-Mic Opinions</td><td rowspan="2">Ballroom A</td></tr>
-  <tr><td>14:30–15:30</td><td>Panel Discussion</td></tr>
-  <tr><td>15:30–15:45</td><td>Coffee Break</td><td>Exhibit Hall II</td></tr>
-  <tr><td>15:45–16:15</td><td>Hila Chefer</td><td rowspan="5">Ballroom A</td></tr>
-  <tr><td>16:15–16:45</td><td>Deepti Ghadiyaram</td></tr>
-  <tr><td>16:45–17:00</td><td>Break</td></tr>
-  <tr><td>17:00–17:30</td><td>Viorica Patraucean</td></tr>
-  <tr><td>17:30–17:40</td><td>Closing Remarks</td></tr>
+  <!-- Ballroom A (morning block) -->
+  <tr>
+    <td>8:45–9:00</td>
+    <td>Opening Remarks</td>
+    <td rowspan="3">Ballroom A</td>
+  </tr>
+  <tr>
+    <td>9:00–9:30</td>
+    <td>
+      <span class="speaker">Thomas Fel</span><br>
+      <!-- <span class="talk-title">Talk title here</span> -->
+    </td>
+  </tr>
+  <tr>
+    <td>9:30–10:00</td>
+    <td>
+      <span class="speaker">David Bau</span><br>
+      <!-- <span class="talk-title">Talk title here</span> -->
+    </td>
+  </tr>
+  <!-- Exhibit Hall II (coffee) -->
+  <tr>
+    <td>10:00–10:15</td>
+    <td>Coffee Break</td>
+    <td>Exhibit Hall II</td>
+  </tr>
+  <!-- Ballroom A (late morning block) -->
+  <tr>
+    <td>10:15–10:45</td>
+    <td>
+      <span class="speaker">Sharon Li</span><br>
+      <span class="talk-title">Explainability Meets Reliability in Large Vision-Language Models</span>
+    </td>
+    <td rowspan="2">Ballroom A</td>
+  </tr>
+  <tr>
+    <td>10:45–11:15</td>
+    <td>Elevator Pitches of Accepted Papers</td>
+  </tr>
+  <!-- Exhibit Hall II (poster session + lunch inside) -->
+  <tr>
+    <td>11:15–14:00</td>
+    <td>Poster Session</td>
+    <td rowspan="2">Exhibit Hall II</td>
+  </tr>
+  <tr>
+    <td>12:15–13:00</td>
+    <td class="sub">↳ Lunch Social Event</td>
+  </tr>
+  <!-- Ballroom A (early afternoon block) -->
+  <tr>
+    <td>14:00–14:30</td>
+    <td>Open-Mic Opinions</td>
+    <td rowspan="2">Ballroom A</td>
+  </tr>
+  <tr>
+    <td>14:30–15:30</td>
+    <td>Panel Discussion</td>
+  </tr>
+  <!-- Exhibit Hall II (coffee) -->
+  <tr>
+    <td>15:30–15:45</td>
+    <td>Coffee Break</td>
+    <td>Exhibit Hall II</td>
+  </tr>
+  <!-- Ballroom A (late afternoon block) -->
+  <tr>
+    <td>15:45–16:15</td>
+    <td>
+      <span class="speaker">Hila Chefer</span><br>
+      <span class="talk-title">Interpretability as the Generative Tool We Didn’t Know We Needed</span>
+    </td>
+    <td rowspan="4">Ballroom A</td>
+  </tr>
+  <tr>
+    <td>16:15–16:45</td>
+    <td>
+      <span class="speaker">Deepti Ghadiyaram</span><br>
+      <!-- <span class="talk-title">Talk title here</span> -->
+    </td>
+  </tr>
+  <tr>
+    <td>16:45–17:15</td>
+    <td>
+      <span class="speaker">Viorica Patraucean</span><br>
+      <!-- <span class="talk-title">Talk title here</span> -->
+    </td>
+  </tr>
+  <tr>
+    <td>17:15–17:20</td>
+    <td>Closing Remarks</td>
+  </tr>
 </table>
     </div>
   
