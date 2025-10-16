@@ -57,13 +57,16 @@
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication_types/1/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/abha-jha/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/ada-gorgun/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/publication/aim-amending-inherent-interpretability-via-self-supervised-masking/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/akhil-bhimaraju/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -84,7 +87,7 @@
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/antoni-b.-chan/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -93,7 +96,7 @@
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/ayush-somani/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -110,11 +113,17 @@
     <loc>https://excv-workshop.github.io/authors/benjamin-safken/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/c.v.-jawahar/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/carlo-masone/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/publication/causal-interpretation-of-sparse-autoencoder-features-in-vision/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/chenyang-zhao/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/christian-bartelt/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
@@ -156,13 +165,19 @@
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/explaining-object-detection-through-difference-map/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/eyad-alshami/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/fabian-bongratz/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/georgia-gkioxari/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/gfr-cam-gram-schmidt-feature-reduction-for-hierarchical-class-activation-maps/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -170,8 +185,14 @@
     <loc>https://excv-workshop.github.io/authors/giri-p-krishnan/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/publication/gradient-based-visual-explanation-for-transformer-based-clip/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/publication/granular-concept-circuits-toward-a-fine-grained-circuit-discovery-for-concept-representations/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/publication/hallucinatory-image-tokens-a-training-free-eazy-approach-on-detecting-and-mitigating-object-hallucinations-in-lvlms/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/hancheng-min/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
@@ -188,6 +209,9 @@
     <loc>https://excv-workshop.github.io/publication/interpretable-open-vocabulary-referring-object-detection-with-reverse-contrast-attention/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/publication/is-clip-ideal-no.-can-we-fix-it-yes/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/jacek-tabor/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
   </url><url>
@@ -200,8 +224,14 @@
     <loc>https://excv-workshop.github.io/authors/jeffrey-kenneth-go/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/jessica-bader/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/jhair-gallardo/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/jing-jia/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/jinyoung-hwang/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -227,6 +257,9 @@
     <loc>https://excv-workshop.github.io/authors/koryna-lewandowska/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/kun-wang/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/kwang-ju-kim/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
@@ -235,6 +268,12 @@
   </url><url>
     <loc>https://excv-workshop.github.io/authors/lav-r.-varshney/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/leander-girrbach/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/liwei-che/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/logan-bolton/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -249,7 +288,7 @@
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/margret-keuper/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/mateusz-pach/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
@@ -275,11 +314,14 @@
     <loc>https://excv-workshop.github.io/authors/moulik-choraria/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/mukilan-karuppasamy/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/nam-hyeon-woo/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/tags/nectar/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/nevasini-sasikumar/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
@@ -288,13 +330,16 @@
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/tags/nonproceedings/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/patrick-knab/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/pietro-perona/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/pooyan-rahmanzadehgervi/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -312,13 +357,16 @@
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication_types/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/pyongkun-kim/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/raphi-kang/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/rene-vidal/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
@@ -331,6 +379,12 @@
   </url><url>
     <loc>https://excv-workshop.github.io/authors/rowel-atienza/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/rui-zhao/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/ruixiang-tang/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/rushil-paresh-desai/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -353,6 +407,12 @@
     <loc>https://excv-workshop.github.io/publication/semantic-resonance-maps-cross-modal-oscillations-for-explainable-vision-language-model-interpretability/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/shankar-gangisetty/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/shashank-agnihotri/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/shruti-vyas/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
@@ -362,8 +422,17 @@
     <loc>https://excv-workshop.github.io/authors/shyam-marjit/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/shyam-nandan-rai/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/sohwi-lim/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/stephan-alaniz/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/publication/sub-benchmarking-cbm-generalization-via-synthetic-attribute-substitutions/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/tab-transformer-attention-bottlenecks-enable-user-intervention-and-debugging-in-vision-language-models/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -372,7 +441,7 @@
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/tags/</loc>
-    <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/the-myth-of-robust-classes-how-shielding-skews-perceived-stability/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
@@ -380,8 +449,14 @@
     <loc>https://excv-workshop.github.io/authors/tom-nuno-wolf/</loc>
     <lastmod>2025-10-15T10:48:26+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/tony-qingze-liu/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/publication/toward-a-principled-theory-of-xai-via-spectral-analysis/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/publication/towards-safer-and-understandable-driver-intention-prediction/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
@@ -401,16 +476,28 @@
     <loc>https://excv-workshop.github.io/publication/vital-more-understandable-feature-visualization-through-distribution-alignment-and-relevant-information-flow/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/vladimir-pavlovic/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/weiyi-qin/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/publication/what-variables-affect-out-of-distribution-generalization-in-pretrained-models/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/wonseok-choi/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
+    <loc>https://excv-workshop.github.io/authors/xingyu-zeng/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
+  </url><url>
     <loc>https://excv-workshop.github.io/authors/yearim-kim/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
   </url><url>
     <loc>https://excv-workshop.github.io/authors/yogesh-s-rawat/</loc>
     <lastmod>2025-10-15T16:57:29+02:00</lastmod>
+  </url><url>
+    <loc>https://excv-workshop.github.io/authors/yue-song/</loc>
+    <lastmod>2025-10-16T17:50:01+02:00</lastmod>
   </url>
 </urlset>

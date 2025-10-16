@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shyam Nandan Rai | eXCV Workshop at ICCV 2025</title>
+    <link>https://excv-workshop.github.io/authors/shyam-nandan-rai/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/shyam-nandan-rai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shyam Nandan Rai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Shyam Nandan Rai</title>
+      <link>https://excv-workshop.github.io/authors/shyam-nandan-rai/</link>
+    </image>
+    
+    <item>
+      <title>Towards Safer and Understandable Driver Intention Prediction</title>
+      <link>https://excv-workshop.github.io/publication/towards-safer-and-understandable-driver-intention-prediction/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/towards-safer-and-understandable-driver-intention-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
