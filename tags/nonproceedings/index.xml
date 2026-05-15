@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nonproceedings | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/tags/nonproceedings/</link>
+      <atom:link href="https://excv-workshop.github.io/tags/nonproceedings/index.xml" rel="self" type="application/rss+xml" />
+    <description>nonproceedings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>nonproceedings</title>
+      <link>https://excv-workshop.github.io/tags/nonproceedings/</link>
+    </image>
+    
+    <item>
+      <title>AIM: Amending Inherent Interpretability via Self-Supervised Masking</title>
+      <link>https://excv-workshop.github.io/publication/aim-amending-inherent-interpretability-via-self-supervised-masking/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/aim-amending-inherent-interpretability-via-self-supervised-masking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>As large as it gets: Learning infinitely large Filters via Neural Implicit Functions in the Fourier Domain</title>
+      <link>https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/as-large-as-it-gets-learning-infinitely-large-filters-via-neural-implicit-functions-in-the-fourier-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields</title>
+      <link>https://excv-workshop.github.io/publication/bayessdf-surface-based-laplacian-uncertainty-estimation-for-3d-geometry-with-neural-signed-distance-fields/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/bayessdf-surface-based-laplacian-uncertainty-estimation-for-3d-geometry-with-neural-signed-distance-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Interpretation of Sparse Autoencoder Features in Vision</title>
+      <link>https://excv-workshop.github.io/publication/causal-interpretation-of-sparse-autoencoder-features-in-vision/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/causal-interpretation-of-sparse-autoencoder-features-in-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models</title>
+      <link>https://excv-workshop.github.io/publication/coco-bot-energy-based-composable-concept-bottlenecks-for-interpretable-generative-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/coco-bot-energy-based-composable-concept-bottlenecks-for-interpretable-generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling Neural Collapse Enhances Out-of-Distribution Detection and Transfer Learning</title>
+      <link>https://excv-workshop.github.io/publication/controlling-neural-collapse-enhances-out-of-distribution-detection-and-transfer-learning/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/controlling-neural-collapse-enhances-out-of-distribution-detection-and-transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCBM: Data-Efficient Visual Concept Bottleneck Models</title>
+      <link>https://excv-workshop.github.io/publication/dcbm-data-efficient-visual-concept-bottleneck-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/dcbm-data-efficient-visual-concept-bottleneck-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient-based Visual Explanation for Transformer-based CLIP</title>
+      <link>https://excv-workshop.github.io/publication/gradient-based-visual-explanation-for-transformer-based-clip/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/gradient-based-visual-explanation-for-transformer-based-clip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granular Concept Circuits: Toward a Fine-Grained Circuit Discovery for Concept Representations</title>
+      <link>https://excv-workshop.github.io/publication/granular-concept-circuits-toward-a-fine-grained-circuit-discovery-for-concept-representations/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/granular-concept-circuits-toward-a-fine-grained-circuit-discovery-for-concept-representations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hallucinatory Image Tokens: A Training-free EAZY Approach on Detecting and Mitigating Object Hallucinations in LVLMs</title>
+      <link>https://excv-workshop.github.io/publication/hallucinatory-image-tokens-a-training-free-eazy-approach-on-detecting-and-mitigating-object-hallucinations-in-lvlms/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/hallucinatory-image-tokens-a-training-free-eazy-approach-on-detecting-and-mitigating-object-hallucinations-in-lvlms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is CLIP ideal? No. Can we fix it? Yes!</title>
+      <link>https://excv-workshop.github.io/publication/is-clip-ideal-no.-can-we-fix-it-yes/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/is-clip-ideal-no.-can-we-fix-it-yes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep the Faith: Faithful Explanations in Convolutional Neural Networks for Case-Based Reasoning</title>
+      <link>https://excv-workshop.github.io/publication/keep-the-faith-faithful-explanations-in-convolutional-neural-networks-for-case-based-reasoning/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/keep-the-faith-faithful-explanations-in-convolutional-neural-networks-for-case-based-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LR0.FM: Low-Res Benchmark and Improving Robustness for Zero-Shot Classification in Foundation Models</title>
+      <link>https://excv-workshop.github.io/publication/lr0.fm-low-res-benchmark-and-improving-robustness-for-zero-shot-classification-in-foundation-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/lr0.fm-low-res-benchmark-and-improving-robustness-for-zero-shot-classification-in-foundation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LucidPPN: Unambiguous Prototypical Parts Network for User-centric Interpretable Computer Vision</title>
+      <link>https://excv-workshop.github.io/publication/lucidppn-unambiguous-prototypical-parts-network-for-user-centric-interpretable-computer-vision/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/lucidppn-unambiguous-prototypical-parts-network-for-user-centric-interpretable-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patch-wise Retrieval: An Interpretable Instance-Level Image Matching</title>
+      <link>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Resonance Maps: Cross-Modal Oscillations for Explainable Vision-Language Model Interpretability</title>
+      <link>https://excv-workshop.github.io/publication/semantic-resonance-maps-cross-modal-oscillations-for-explainable-vision-language-model-interpretability/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/semantic-resonance-maps-cross-modal-oscillations-for-explainable-vision-language-model-interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions</title>
+      <link>https://excv-workshop.github.io/publication/sub-benchmarking-cbm-generalization-via-synthetic-attribute-substitutions/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/sub-benchmarking-cbm-generalization-via-synthetic-attribute-substitutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models</title>
+      <link>https://excv-workshop.github.io/publication/tab-transformer-attention-bottlenecks-enable-user-intervention-and-debugging-in-vision-language-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/tab-transformer-attention-bottlenecks-enable-user-intervention-and-debugging-in-vision-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Myth of Robust Classes: How Shielding Skews Perceived Stability</title>
+      <link>https://excv-workshop.github.io/publication/the-myth-of-robust-classes-how-shielding-skews-perceived-stability/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/the-myth-of-robust-classes-how-shielding-skews-perceived-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Principled Theory of XAI via Spectral Analysis</title>
+      <link>https://excv-workshop.github.io/publication/toward-a-principled-theory-of-xai-via-spectral-analysis/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/toward-a-principled-theory-of-xai-via-spectral-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Safer and Understandable Driver Intention Prediction</title>
+      <link>https://excv-workshop.github.io/publication/towards-safer-and-understandable-driver-intention-prediction/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/towards-safer-and-understandable-driver-intention-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmasking the functionality of early layers in VLMs</title>
+      <link>https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very Short and Accurate Explanations by Design</title>
+      <link>https://excv-workshop.github.io/publication/very-short-and-accurate-explanations-by-design/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/very-short-and-accurate-explanations-by-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision language models are blind</title>
+      <link>https://excv-workshop.github.io/publication/vision-language-models-are-blind/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/vision-language-models-are-blind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision language models fail to translate detailed visual features into words</title>
+      <link>https://excv-workshop.github.io/publication/vision-language-models-fail-to-translate-detailed-visual-features-into-words/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/vision-language-models-fail-to-translate-detailed-visual-features-into-words/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow</title>
+      <link>https://excv-workshop.github.io/publication/vital-more-understandable-feature-visualization-through-distribution-alignment-and-relevant-information-flow/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/vital-more-understandable-feature-visualization-through-distribution-alignment-and-relevant-information-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Variables Affect Out-of-Distribution Generalization in Pretrained Models?</title>
+      <link>https://excv-workshop.github.io/publication/what-variables-affect-out-of-distribution-generalization-in-pretrained-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/what-variables-affect-out-of-distribution-generalization-in-pretrained-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

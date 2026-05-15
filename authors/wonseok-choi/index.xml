@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wonseok Choi | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/wonseok-choi/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/wonseok-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wonseok Choi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Wonseok Choi</title>
+      <link>https://excv-workshop.github.io/authors/wonseok-choi/</link>
+    </image>
+    
+    <item>
+      <title>Patch-wise Retrieval: An Interpretable Instance-Level Image Matching</title>
+      <link>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>earlystage | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/tags/earlystage/</link>
+      <atom:link href="https://excv-workshop.github.io/tags/earlystage/index.xml" rel="self" type="application/rss+xml" />
+    <description>earlystage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>earlystage</title>
+      <link>https://excv-workshop.github.io/tags/earlystage/</link>
+    </image>
+    
+    <item>
+      <title>BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields</title>
+      <link>https://excv-workshop.github.io/publication/bayessdf-surface-based-laplacian-uncertainty-estimation-for-3d-geometry-with-neural-signed-distance-fields/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/bayessdf-surface-based-laplacian-uncertainty-estimation-for-3d-geometry-with-neural-signed-distance-fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Interpretation of Sparse Autoencoder Features in Vision</title>
+      <link>https://excv-workshop.github.io/publication/causal-interpretation-of-sparse-autoencoder-features-in-vision/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/causal-interpretation-of-sparse-autoencoder-features-in-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoCo-Bot: Energy-based Composable Concept Bottlenecks for Interpretable Generative Models</title>
+      <link>https://excv-workshop.github.io/publication/coco-bot-energy-based-composable-concept-bottlenecks-for-interpretable-generative-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/coco-bot-energy-based-composable-concept-bottlenecks-for-interpretable-generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patch-wise Retrieval: An Interpretable Instance-Level Image Matching</title>
+      <link>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/patch-wise-retrieval-an-interpretable-instance-level-image-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Resonance Maps: Cross-Modal Oscillations for Explainable Vision-Language Model Interpretability</title>
+      <link>https://excv-workshop.github.io/publication/semantic-resonance-maps-cross-modal-oscillations-for-explainable-vision-language-model-interpretability/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/semantic-resonance-maps-cross-modal-oscillations-for-explainable-vision-language-model-interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Myth of Robust Classes: How Shielding Skews Perceived Stability</title>
+      <link>https://excv-workshop.github.io/publication/the-myth-of-robust-classes-how-shielding-skews-perceived-stability/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/the-myth-of-robust-classes-how-shielding-skews-perceived-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Principled Theory of XAI via Spectral Analysis</title>
+      <link>https://excv-workshop.github.io/publication/toward-a-principled-theory-of-xai-via-spectral-analysis/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/toward-a-principled-theory-of-xai-via-spectral-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmasking the functionality of early layers in VLMs</title>
+      <link>https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/unmasking-the-functionality-of-early-layers-in-vlms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very Short and Accurate Explanations by Design</title>
+      <link>https://excv-workshop.github.io/publication/very-short-and-accurate-explanations-by-design/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/very-short-and-accurate-explanations-by-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision language models fail to translate detailed visual features into words</title>
+      <link>https://excv-workshop.github.io/publication/vision-language-models-fail-to-translate-detailed-visual-features-into-words/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/vision-language-models-fail-to-translate-detailed-visual-features-into-words/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

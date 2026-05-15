@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Long Mai | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/long-mai/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/long-mai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Long Mai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright><lastBuildDate>Fri, 10 Oct 2025 22:02:03 +0200</lastBuildDate>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Long Mai</title>
+      <link>https://excv-workshop.github.io/authors/long-mai/</link>
+    </image>
+    
+    <item>
+      <title>TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models</title>
+      <link>https://excv-workshop.github.io/publication/tab-transformer-attention-bottlenecks-enable-user-intervention-and-debugging-in-vision-language-models/</link>
+      <pubDate>Fri, 10 Oct 2025 22:02:03 +0200</pubDate>
+      <guid>https://excv-workshop.github.io/publication/tab-transformer-attention-bottlenecks-enable-user-intervention-and-debugging-in-vision-language-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
