@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sai Madhusudan Gunda | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/sai-madhusudan-gunda/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/sai-madhusudan-gunda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sai Madhusudan Gunda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Sai Madhusudan Gunda</title>
+      <link>https://excv-workshop.github.io/authors/sai-madhusudan-gunda/</link>
+    </image>
+    
+    <item>
+      <title>DoCoG: Mask-based Multi-Type Grounded Chain-of-Thought for Document QA</title>
+      <link>https://excv-workshop.github.io/publication/docog-mask-based-multi-type-grounded-chain-of-thought-for-document-qa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/docog-mask-based-multi-type-grounded-chain-of-thought-for-document-qa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

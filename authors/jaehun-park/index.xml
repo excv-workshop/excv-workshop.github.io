@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaehun Park | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/jaehun-park/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/jaehun-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaehun Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Jaehun Park</title>
+      <link>https://excv-workshop.github.io/authors/jaehun-park/</link>
+    </image>
+    
+    <item>
+      <title>ProtoMappingNet: Interpretable Hierarchical Prototypes through Relational Prototype Mappings</title>
+      <link>https://excv-workshop.github.io/publication/protomappingnet-interpretable-hierarchical-prototypes-through-relational-prototype-mappings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/protomappingnet-interpretable-hierarchical-prototypes-through-relational-prototype-mappings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

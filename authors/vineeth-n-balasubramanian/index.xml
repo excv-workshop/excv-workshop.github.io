@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vineeth N Balasubramanian | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/vineeth-n-balasubramanian/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/vineeth-n-balasubramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vineeth N Balasubramanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Vineeth N Balasubramanian</title>
+      <link>https://excv-workshop.github.io/authors/vineeth-n-balasubramanian/</link>
+    </image>
+    
+    <item>
+      <title>Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning</title>
+      <link>https://excv-workshop.github.io/publication/formal-concept-lattices-are-good-semantic-scaffolds-for-concept-based-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/formal-concept-lattices-are-good-semantic-scaffolds-for-concept-based-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogicCBMs: Logic-Enhanced Concept-Based Learning</title>
+      <link>https://excv-workshop.github.io/publication/logiccbms-logic-enhanced-concept-based-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/logiccbms-logic-enhanced-concept-based-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

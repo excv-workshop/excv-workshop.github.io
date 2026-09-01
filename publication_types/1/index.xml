@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/publication_types/1/</link>
+      <atom:link href="https://excv-workshop.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>1</title>
+      <link>https://excv-workshop.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Attention (as Discrete-Time Markov) Chains</title>
+      <link>https://excv-workshop.github.io/publication/attention-as-discrete-time-markov-chains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/attention-as-discrete-time-markov-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFM: Language-aligned Concept Foundation Model for Vision</title>
+      <link>https://excv-workshop.github.io/publication/cfm-language-aligned-concept-foundation-model-for-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/cfm-language-aligned-concept-foundation-model-for-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DoCoG: Mask-based Multi-Type Grounded Chain-of-Thought for Document QA</title>
+      <link>https://excv-workshop.github.io/publication/docog-mask-based-multi-type-grounded-chain-of-thought-for-document-qa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/docog-mask-based-multi-type-grounded-chain-of-thought-for-document-qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations</title>
+      <link>https://excv-workshop.github.io/publication/evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning</title>
+      <link>https://excv-workshop.github.io/publication/formal-concept-lattices-are-good-semantic-scaffolds-for-concept-based-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/formal-concept-lattices-are-good-semantic-scaffolds-for-concept-based-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Drop-off to Recovery: A Mechanistic Analysis of Segmentation in MLLMs</title>
+      <link>https://excv-workshop.github.io/publication/from-drop-off-to-recovery-a-mechanistic-analysis-of-segmentation-in-mllms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/from-drop-off-to-recovery-a-mechanistic-analysis-of-segmentation-in-mllms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn to Rank: Visual Attribution by Learning Importance Ranking</title>
+      <link>https://excv-workshop.github.io/publication/learn-to-rank-visual-attribution-by-learning-importance-ranking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/learn-to-rank-visual-attribution-by-learning-importance-ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogicCBMs: Logic-Enhanced Concept-Based Learning</title>
+      <link>https://excv-workshop.github.io/publication/logiccbms-logic-enhanced-concept-based-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/logiccbms-logic-enhanced-concept-based-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Faithfulness of Post-Hoc Concept Bottleneck Models</title>
+      <link>https://excv-workshop.github.io/publication/on-the-faithfulness-of-post-hoc-concept-bottleneck-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/on-the-faithfulness-of-post-hoc-concept-bottleneck-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProtoMappingNet: Interpretable Hierarchical Prototypes through Relational Prototype Mappings</title>
+      <link>https://excv-workshop.github.io/publication/protomappingnet-interpretable-hierarchical-prototypes-through-relational-prototype-mappings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/protomappingnet-interpretable-hierarchical-prototypes-through-relational-prototype-mappings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIC: Similarity-Based Interpretable Image Classification with Neural Networks</title>
+      <link>https://excv-workshop.github.io/publication/sic-similarity-based-interpretable-image-classification-with-neural-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/sic-similarity-based-interpretable-image-classification-with-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Far Looks Up: Probing Spatial Representation in Vision-Language Models</title>
+      <link>https://excv-workshop.github.io/publication/why-far-looks-up-probing-spatial-representation-in-vision-language-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/why-far-looks-up-probing-spatial-representation-in-vision-language-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

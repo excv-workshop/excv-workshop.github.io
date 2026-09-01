@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julien Colin | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/julien-colin/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/julien-colin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julien Colin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Julien Colin</title>
+      <link>https://excv-workshop.github.io/authors/julien-colin/</link>
+    </image>
+    
+    <item>
+      <title>From Interpretability Methods to Interpretable Models</title>
+      <link>https://excv-workshop.github.io/publication/from-interpretability-methods-to-interpretable-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/from-interpretability-methods-to-interpretable-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

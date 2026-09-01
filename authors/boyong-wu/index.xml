@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boyong Wu | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/boyong-wu/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/boyong-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boyong Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Boyong Wu</title>
+      <link>https://excv-workshop.github.io/authors/boyong-wu/</link>
+    </image>
+    
+    <item>
+      <title>From Drop-off to Recovery: A Mechanistic Analysis of Segmentation in MLLMs</title>
+      <link>https://excv-workshop.github.io/publication/from-drop-off-to-recovery-a-mechanistic-analysis-of-segmentation-in-mllms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/from-drop-off-to-recovery-a-mechanistic-analysis-of-segmentation-in-mllms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

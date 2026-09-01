@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Begüm Demir | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/begum-demir/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/begum-demir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Begüm Demir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Begüm Demir</title>
+      <link>https://excv-workshop.github.io/authors/begum-demir/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations</title>
+      <link>https://excv-workshop.github.io/publication/evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/evaluating-the-interpretability-of-sparse-autoencoders-with-concept-annotations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

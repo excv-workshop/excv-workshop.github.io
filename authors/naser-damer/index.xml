@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naser Damer | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/naser-damer/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/naser-damer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Naser Damer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Naser Damer</title>
+      <link>https://excv-workshop.github.io/authors/naser-damer/</link>
+    </image>
+    
+    <item>
+      <title>EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment</title>
+      <link>https://excv-workshop.github.io/publication/expl-fr-explaining-face-recognition-models-via-vision-language-alignment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/expl-fr-explaining-face-recognition-models-via-vision-language-alignment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

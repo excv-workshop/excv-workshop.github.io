@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olaf Dünkel | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/olaf-dunkel/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/olaf-dunkel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olaf Dünkel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Olaf Dünkel</title>
+      <link>https://excv-workshop.github.io/authors/olaf-dunkel/</link>
+    </image>
+    
+    <item>
+      <title>Attention (as Discrete-Time Markov) Chains</title>
+      <link>https://excv-workshop.github.io/publication/attention-as-discrete-time-markov-chains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/attention-as-discrete-time-markov-chains/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

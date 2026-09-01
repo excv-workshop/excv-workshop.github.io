@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Longin Jan Latecki | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/longin-jan-latecki/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/longin-jan-latecki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Longin Jan Latecki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Longin Jan Latecki</title>
+      <link>https://excv-workshop.github.io/authors/longin-jan-latecki/</link>
+    </image>
+    
+    <item>
+      <title>Logit Lens Supervision for Patch-Level Explanations in Vision-Language Models</title>
+      <link>https://excv-workshop.github.io/publication/logit-lens-supervision-for-patch-level-explanations-in-vision-language-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/logit-lens-supervision-for-patch-level-explanations-in-vision-language-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

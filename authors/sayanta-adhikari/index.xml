@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sayanta Adhikari | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/authors/sayanta-adhikari/</link>
+      <atom:link href="https://excv-workshop.github.io/authors/sayanta-adhikari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sayanta Adhikari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>Sayanta Adhikari</title>
+      <link>https://excv-workshop.github.io/authors/sayanta-adhikari/</link>
+    </image>
+    
+    <item>
+      <title>Formal Concept Lattices are Good Semantic Scaffolds for Concept-Based Learning</title>
+      <link>https://excv-workshop.github.io/publication/formal-concept-lattices-are-good-semantic-scaffolds-for-concept-based-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/formal-concept-lattices-are-good-semantic-scaffolds-for-concept-based-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
