@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>position | eXCV Workshop at ECCV 2026</title>
+    <link>https://excv-workshop.github.io/tags/position/</link>
+      <atom:link href="https://excv-workshop.github.io/tags/position/index.xml" rel="self" type="application/rss+xml" />
+    <description>position</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 eXCV Workshop Organizers</copyright>
+    <image>
+      <url>https://excv-workshop.github.io/img/icon.png</url>
+      <title>position</title>
+      <link>https://excv-workshop.github.io/tags/position/</link>
+    </image>
+    
+    <item>
+      <title>From Interpretability Methods to Interpretable Models</title>
+      <link>https://excv-workshop.github.io/publication/from-interpretability-methods-to-interpretable-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/from-interpretability-methods-to-interpretable-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Position: We need theory-grounded explainability for abstract tasks to quantify model bias.</title>
+      <link>https://excv-workshop.github.io/publication/position-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://excv-workshop.github.io/publication/position-we-need-theory-grounded-explainability-for-abstract-tasks-to-quantify-model-bias./</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
